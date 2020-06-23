@@ -95,7 +95,7 @@
                     <connections>
                         <outlet property="btnPlay" destination="tLW-2u-WMa" id="kbP-gp-7hU"/>
                         <outlet property="tfBody" destination="fCF-lf-LIu" id="Jbm-5h-aMx"/>
-                        <outlet property="tfTitle" destination="qEl-0Y-3vU" id="7WP-YA-xaw"/>
+                        <outlet property="tvTitle" destination="mjE-D6-52j" id="1jd-ni-kSO"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IHQ-8h-elZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

@@ -16,7 +16,9 @@ class ViewController: UIViewController {
     let alertService = AlertService()
     
     @IBAction func didTapButton(){
-        let alertVC = alertService.alert()
+        let alertVC = alertService.alert(title: "第一關", body: "歡迎加入富豬的行列", buttonTitle: "開始學習"){
+            
+        }
         
         present(alertVC, animated: true)
     }
